@@ -1,8 +1,6 @@
 # bulk_pdf
 commandline tools to merge a lot of word documents to one big pdf
 
-# Usage
-This section explains how to use these tools
 ## bulkpdf.py
 ```python
 python bulkpdf.py inputDir outputDir
